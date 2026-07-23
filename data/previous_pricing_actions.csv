@@ -1,0 +1,6 @@
+date,segment,action,rate_change_pct,rationale,observed_outcome
+2025-09-15,Motor 25-34,hold,0.0,Protect new-business volume against competitor activity,Conversion continued rising; loss ratio began drifting up
+2025-11-01,Motor 35-49,increase,4.0,Margin protection on a stable-risk book,"Conversion softened ~1-2pts, margin held"
+2026-01-10,Home Premium,decrease,-3.0,Respond to competitor pressure on high-value home,"Conversion improved ~1pt, volume up modestly"
+2025-08-20,Motor 50+,increase,2.0,Small inflationary adjustment on a low-risk book,Negligible conversion impact
+2025-10-05,Van Commercial,increase,5.0,Rising repair-cost inflation on commercial vehicles,"Conversion dipped ~2pts, loss ratio stabilised"

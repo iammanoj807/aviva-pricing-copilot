@@ -1,0 +1,19 @@
+{
+  "description": "Golden set for the Pricing Copilot. Each question has a known-correct segment, the claims flag we expect, evidence sources that must appear, and whether the supervisor's conditional second round should fire. Motor 25-34 is the planted adverse-selection story; the other segments are the stable controls that should NOT trigger a second round.",
+  "questions": [
+    {"id": "Q01", "question": "Should we take any pricing action on Motor 25-34?", "expected_segment": "Motor 25-34", "expect_deterioration": true, "expect_second_round": true, "expected_sources": ["claims_performance.csv", "conversion_performance.csv", "competitor_motor_young_driver.md"]},
+    {"id": "Q02", "question": "Is Motor 25-34 showing signs of adverse selection?", "expected_segment": "Motor 25-34", "expect_deterioration": true, "expect_second_round": true, "expected_sources": ["claims_performance.csv", "conversion_performance.csv"]},
+    {"id": "Q03", "question": "Young driver book — is there anything to worry about?", "expected_segment": "Motor 25-34", "expect_deterioration": true, "expect_second_round": true, "expected_sources": ["claims_performance.csv", "conversion_performance.csv"]},
+    {"id": "Q04", "question": "Why is conversion rising in Motor 25-34?", "expected_segment": "Motor 25-34", "expect_deterioration": true, "expect_second_round": true, "expected_sources": ["conversion_performance.csv"]},
+    {"id": "Q05", "question": "Is competitor activity affecting Motor 25-34?", "expected_segment": "Motor 25-34", "expect_deterioration": true, "expect_second_round": true, "expected_sources": ["competitor_motor_young_driver.md"]},
+    {"id": "Q06", "question": "Do we need to reprice Motor 25-34?", "expected_segment": "Motor 25-34", "expect_deterioration": true, "expect_second_round": true, "expected_sources": ["claims_performance.csv", "conversion_performance.csv"]},
+    {"id": "Q07", "question": "Review pricing for Motor 35-49.", "expected_segment": "Motor 35-49", "expect_deterioration": false, "expect_second_round": false, "expected_sources": ["claims_performance.csv", "conversion_performance.csv"]},
+    {"id": "Q08", "question": "How is Motor 50+ performing?", "expected_segment": "Motor 50+", "expect_deterioration": false, "expect_second_round": false, "expected_sources": ["claims_performance.csv", "conversion_performance.csv"]},
+    {"id": "Q09", "question": "Should we change Home Standard pricing?", "expected_segment": "Home Standard", "expect_deterioration": false, "expect_second_round": false, "expected_sources": ["claims_performance.csv", "conversion_performance.csv"]},
+    {"id": "Q10", "question": "Assess Home Premium.", "expected_segment": "Home Premium", "expect_deterioration": false, "expect_second_round": false, "expected_sources": ["claims_performance.csv", "conversion_performance.csv"]},
+    {"id": "Q11", "question": "Van Commercial pricing review.", "expected_segment": "Van Commercial", "expect_deterioration": false, "expect_second_round": false, "expected_sources": ["claims_performance.csv", "conversion_performance.csv"]},
+    {"id": "Q12", "question": "Any concerns in Home Premium renewals?", "expected_segment": "Home Premium", "expect_deterioration": false, "expect_second_round": false, "expected_sources": ["claims_performance.csv", "conversion_performance.csv"]},
+    {"id": "Q13", "question": "What is the loss ratio trend in Motor 25-34?", "expected_segment": "Motor 25-34", "expect_deterioration": true, "expect_second_round": true, "expected_sources": ["claims_performance.csv"]},
+    {"id": "Q14", "question": "Which segment needs urgent pricing attention?", "expected_segment": "Motor 25-34", "expect_deterioration": true, "expect_second_round": true, "expected_sources": ["claims_performance.csv", "conversion_performance.csv"]}
+  ]
+}

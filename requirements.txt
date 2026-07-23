@@ -1,0 +1,9 @@
+langgraph
+langchain
+langchain-ollama
+pandas
+pydantic
+streamlit
+fastapi
+uvicorn[standard]
+python-dotenv

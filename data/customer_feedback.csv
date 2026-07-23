@@ -1,0 +1,41 @@
+feedback_id,segment,date,channel,verbatim
+FB001,Motor 25-34,2025-07-15,renewal,My renewal jumped again and I've had no claims — I'm shopping around this year.
+FB002,Motor 25-34,2025-08-15,renewal,Price went up at renewal for no reason I can see. Found cheaper elsewhere in minutes.
+FB003,Motor 25-34,2025-09-15,renewal,Loyal for three years and the renewal price is a joke. Feels like being punished for staying.
+FB004,Motor 25-34,2025-10-15,quote,"Actually your quote came out cheapest for my age group, pleasantly surprised."
+FB005,Motor 25-34,2025-11-15,renewal,"Another year, another renewal hike. Why does it keep climbing?"
+FB006,Motor 25-34,2025-12-15,quote,"Cheapest I found as a young driver, signed up straight away."
+FB007,Motor 25-34,2026-01-15,claim,Claim was handled fine but the renewal afterwards was brutal.
+FB008,Motor 25-34,2026-02-15,renewal,"Renewal price crept up 15%. No accidents, no tickets. Makes no sense."
+FB009,Motor 25-34,2026-03-15,service,"App is easy to use, no complaints there."
+FB010,Motor 35-49,2026-04-15,renewal,"Renewal was reasonable this year, stayed put."
+FB011,Motor 35-49,2026-05-15,quote,Middle of the pack on price but the cover was better.
+FB012,Motor 35-49,2026-06-15,claim,"Windscreen claim sorted quickly, happy enough."
+FB013,Motor 35-49,2025-07-15,service,Call centre wait was long but the agent was helpful.
+FB014,Motor 35-49,2025-08-15,renewal,"Slight increase at renewal, still competitive so I stayed."
+FB015,Motor 50+,2025-09-15,renewal,"Been with you years, price is fair, no reason to move."
+FB016,Motor 50+,2025-10-15,quote,"Good value for a safe driver, easy sign-up."
+FB017,Motor 50+,2025-11-15,service,"Friendly service, sorted my mid-term change with no fuss."
+FB018,Motor 50+,2025-12-15,claim,"Bumper claim handled smoothly, would recommend."
+FB019,Motor 50+,2026-01-15,renewal,"Renewal held steady, appreciate the consistency."
+FB020,Home Standard,2026-02-15,renewal,"Home renewal was flat this year, all good."
+FB021,Home Standard,2026-03-15,quote,Decent price for buildings and contents together.
+FB022,Home Standard,2026-04-15,claim,Leak claim took a while to assess but paid out fairly.
+FB023,Home Standard,2026-05-15,service,Website was down when I tried to update my address.
+FB024,Home Standard,2026-06-15,renewal,"Small increase, still cheaper than the comparison sites."
+FB025,Home Standard,2025-07-15,quote,"Straightforward quote, no hidden extras."
+FB026,Home Premium,2025-08-15,renewal,"High-value home cover renewed with a small drop, nice surprise."
+FB027,Home Premium,2025-09-15,quote,"Competitive on premium contents, good limits."
+FB028,Home Premium,2025-10-15,claim,Jewellery claim handled discreetly and quickly.
+FB029,Home Premium,2025-11-15,service,Dedicated line for premium customers is a nice touch.
+FB030,Home Premium,2025-12-15,renewal,"Renewal came down slightly this year, no complaints."
+FB031,Van Commercial,2026-01-15,renewal,"Van renewal went up with repair costs, understandable but stings."
+FB032,Van Commercial,2026-02-15,quote,Priced a bit high for my trade but cover was solid.
+FB033,Van Commercial,2026-03-15,claim,"Tools theft claim paid out, saved my business honestly."
+FB034,Van Commercial,2026-04-15,service,Took two calls to get my fleet details changed.
+FB035,Van Commercial,2026-05-15,renewal,"Commercial renewal keeps climbing, watching the market now."
+FB036,Motor 25-34,2026-06-15,renewal,Third year running the renewal has gone up. Time to switch.
+FB037,Motor 25-34,2025-07-15,quote,"Beat every other quote for a 26-year-old, thanks."
+FB038,Home Standard,2025-08-15,service,"Easy to reach someone, sorted in one call."
+FB039,Motor 50+,2025-09-15,quote,"Best price for my no-claims history, very happy."
+FB040,Van Commercial,2025-10-15,quote,"Reasonable for a new van, decent breakdown cover included."
