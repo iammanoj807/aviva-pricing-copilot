@@ -10,7 +10,7 @@ def get_llm():
     provider = os.getenv("LLM_PROVIDER", "ollama").lower()
 
     if provider == "groq":
-        model = os.getenv("GROQ_MODEL", "llama-3.1-8b-instant")
+        model = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")
         return init_chat_model(f"groq:{model}", temperature=0)
 
     model = os.getenv("OLLAMA_MODEL", "qwen2.5:14b")
